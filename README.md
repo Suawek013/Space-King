@@ -25,7 +25,7 @@ Instructions to open and play Space King
 2. Download project files
 3. Extract zip package
 4. Open Unity Hub
-5. Click add, and select extracted Forest Keeper 
+5. Click add, and select extracted Space King
 
 ## Usage
 
